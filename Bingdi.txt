@@ -1,1 +1,2 @@
 "hello from Bingdi" 
+goodbye form Bingdi 
